@@ -31,16 +31,20 @@ mysql_select_db("media");
 			<ul class="dropmenu">
 				<li><a href="#1">Acer</a>
 					<ul>
-						<li><a href="#11">Sub Menu 1</a></li>
-						<li><a href="#12">Sub Menu 2</a></li>
+						<li><a href="#11">E1-421-11202G32Mn</a></li>
+						<li><a href="#12">E1-421-E302G32Mn</a></li>
+						<li><a href="#12">E1-422-12502G50Mn</a></li>
+						<li><a href="#12">E1-422-65202G50Mn</a></li>
+						<li><a href="#12">E1-431-10002G32Mn</a></li>
+						<li><a href="#12">E1-431-B832G32Mn</a></li>
 					</ul>
 				</li>
 				<li><a href="#2">Asus</a>
 					<ul>
-						<li><a href="#21">Sub Menu 1</a></li>
-						<li><a href="#22">Sub Menu 2</a></li>
-						<li><a href="#23">Sub Menu 3</a></li>
-						<li><a href="#24">Sub Menu 4</a></li>
+						<li><a href="#21">1225B</a></li>
+						<li><a href="#22">1225C</a></li>
+						<li><a href="#23">A43E-VX1070D</a></li>
+						<li><a href="#24">A43E-VX1071D</a></li>
 					</ul>
 				</li>
 				<li><a href="#3">Apple</a>
